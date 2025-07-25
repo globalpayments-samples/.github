@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://developer.globalpay.com/gh-assets/GP_lightmode.svg" title="Global Payments Logo" />
+  <a href="https://www.globalpayments.com" target="_blank">
+    <img src="https://developer.globalpay.com/gh-assets/GP_lightmode.svg" title="Global Payments Logo" />
+  </a>
   <br />
   <br />
-  <a href="https://www.globalpayments.com" target="_blank">Global Payments</a>
-    <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
   <a href="https://www.linkedin.com/showcase/global-payments-for-developers/" target="_blank">LinkedIn</a>
     <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
   <a href="https://developer.globalpay.com/home" target="_blank">Docs</a>
@@ -19,7 +19,7 @@
 
 Integration samples and examples for Global Payment API, organized by programming language and complexity level.
 
-> **NOTE:** We are in the process of creating new sample projects as well as updating and moving existing sample projects from the [**@globalpayments**](https://github.com/globalpayments) org. If you're looking for something specific, [let us know!](https://github.com/orgs/globalpayments/discussions)
+> **NOTE:** We are in the process of creating new sample projects as well as updating and moving existing sample projects from the [**@globalpayments**](https://github.com/globalpayments) org. If you're looking for something specific, [let us know!](https://github.com/orgs/globalpayments/discussions/new?category=ideas)
 
 ## Quick Start Guides
 
