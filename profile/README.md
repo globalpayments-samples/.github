@@ -27,7 +27,7 @@ Integration samples and examples for Global Payment API, organized by programmin
 
 ## Integration Approaches
 
-- [Online Payments with Drop-in UI](https://github.com/globalpayments-samples/online-payments)
+- [Online Payments with Drop-in UI (using Heartland's gateway)](https://github.com/globalpayments-samples/heartland-online-card-payments)
 
 ## Developer Community
 
