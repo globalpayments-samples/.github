@@ -17,7 +17,7 @@
 
 # Global Payments Samples
 
-Integration samples and examples for Global Payment API, organized by programming language and complexity level.
+Integration samples and examples for Global Payments API Platform, organized by programming language and complexity level.
 
 > **NOTE:** We are in the process of creating new sample projects as well as updating and moving existing sample projects from the [**@globalpayments**](https://github.com/globalpayments) org. If you're looking for something specific, [let us know!](https://github.com/orgs/globalpayments/discussions/new?category=ideas)
 
@@ -25,9 +25,22 @@ Integration samples and examples for Global Payment API, organized by programmin
 
 - [Get Started with Global Payments](https://developer.globalpay.com/docs/getting-started/overview)
 
-## Integration Approaches
+## Integration Samples
 
-- [Online Payments with Drop-in UI (using Heartland's gateway)](https://github.com/globalpayments-samples/heartland-online-card-payments)
+### Online Payments
+
+- [Authorization with Delayed/Future Capture](https://github.com/globalpayments-samples/online-payments-auth-and-delayed-capture)
+
+## Gateway-specific
+
+Not yet using our API Platform? You may find some of these sample projects useful
+
+### Portico
+
+- [Online Card Payments with Drop-in UI](https://github.com/globalpayments-samples/heartland-online-card-payments)
+- [Online Check Payments](https://github.com/globalpayments-samples/heartland-online-check-payments)
+- [Online Check Payments with single-use tokenization](https://github.com/globalpayments-samples/heartland-online-tokenized-check-payments)
+- [Online Recurring Payments](https://github.com/globalpayments-samples/heartland-online-recurring-payments)
 
 ## Developer Community
 
