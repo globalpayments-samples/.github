@@ -39,7 +39,6 @@ Not yet using our API Platform? You may find some of these sample projects usefu
 
 - [Online Card Payments with Drop-in UI](https://github.com/globalpayments-samples/heartland-online-card-payments)
 - [Online Check Payments](https://github.com/globalpayments-samples/heartland-online-check-payments)
-- [Online Check Payments with single-use tokenization](https://github.com/globalpayments-samples/heartland-online-tokenized-check-payments)
 - [Online Recurring Payments](https://github.com/globalpayments-samples/heartland-online-recurring-payments)
 
 ## Developer Community
