@@ -30,6 +30,7 @@ Integration samples and examples for Global Payments API Platform, organized by 
 ### Online Payments
 
 - [Authorization with Delayed/Future Capture](https://github.com/globalpayments-samples/online-payments-auth-and-delayed-capture)
+- [Card Verification and Authentication](https://github.com/globalpayments-samples/card-authentication)
 
 ## Gateway-specific
 
