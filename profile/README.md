@@ -30,7 +30,9 @@ Integration samples and examples for Global Payments API Platform, organized by 
 ### Online Payments
 
 - [Authorization with Delayed/Future Capture](https://github.com/globalpayments-samples/online-payments-auth-and-delayed-capture)
-- [Card Verification and Authentication](https://github.com/globalpayments-samples/card-authentication)
+- [Google Pay](https://github.com/globalpayments-samples/google-pay-payments)
+- [Pay by Link](https://github.com/globalpayments-samples/pay-by-link)
+- [Payments and Reporting (PHP)](https://github.com/globalpayments-samples/php-payments-and-reporting)
 
 ## Gateway-specific
 
@@ -38,6 +40,7 @@ Not yet using our API Platform? You may find some of these sample projects usefu
 
 ### Portico
 
+- [Google Pay](https://github.com/globalpayments-samples/heartland-google-pay-payments)
 - [Online Card Payments with Drop-in UI](https://github.com/globalpayments-samples/heartland-online-card-payments)
 - [Online Check Payments](https://github.com/globalpayments-samples/heartland-online-check-payments)
 - [Online Recurring Payments](https://github.com/globalpayments-samples/heartland-online-recurring-payments)
