@@ -49,8 +49,10 @@ Not yet using our API Platform? You may find some of these sample projects usefu
 
 Join our developer community and stay up to date with the latest news from the Global Payments team!
 
-- [GitHub Discussions](https://github.com/orgs/globalpayments/discussions)
-- [Global Payments Developer Blog](https://developer.globalpay.com/blog/overview)
+- [Join us on GitHub Discussions](https://github.com/orgs/globalpayments/discussions)
+- [Join us on Discord](https://discord.gg/myER9G9qkc)
+- [Read our Developer Blog](https://developer.globalpay.com/blog/overview)
 - [Follow us on LinkedIn](https://www.linkedin.com/showcase/global-payments-for-developers/)
 - [Subscribe to our YouTube Playlist](https://youtube.com/playlist?list=PLYOhsY1Babga_03fc9FcGIWqagCHEyxY0&si=H4YgJYez6VMxLE68)
 
+Have a suggestion to improve our community? [Email us your feedback](mailto:communityexperience@globalpay.com?subject=Global%20Payments%20Developer%20Community%20Feedback).
