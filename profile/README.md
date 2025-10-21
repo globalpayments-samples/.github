@@ -33,6 +33,12 @@ Integration samples and examples for Global Payments API Platform, organized by 
 - [Google Pay](https://github.com/globalpayments-samples/google-pay-payments)
 - [Pay by Link](https://github.com/globalpayments-samples/pay-by-link)
 - [Payments and Reporting (PHP)](https://github.com/globalpayments-samples/php-payments-and-reporting)
+- [Vault One-Click Payments](https://github.com/globalpayments-samples/vault-one-click)
+
+### Tools & Utilities
+
+- [Basic Refund Tool](https://github.com/globalpayments-samples/basic-refund-tool)
+- [Reporting Service](https://github.com/globalpayments-samples/reporting-service)
 
 ## Gateway-specific
 
@@ -44,6 +50,7 @@ Not yet using our API Platform? You may find some of these sample projects usefu
 - [Online Card Payments with Drop-in UI](https://github.com/globalpayments-samples/heartland-online-card-payments)
 - [Online Check Payments](https://github.com/globalpayments-samples/heartland-online-check-payments)
 - [Online Recurring Payments](https://github.com/globalpayments-samples/heartland-online-recurring-payments)
+- [Vault One-Click Payments](https://github.com/globalpayments-samples/portico-vault-one-click)
 
 ## Developer Community
 
