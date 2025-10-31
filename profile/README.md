@@ -29,6 +29,9 @@ Integration samples and examples for Global Payments API Platform, organized by 
 
 ### Online Payments
 
+- [Online Card Payments with Drop-in UI](https://github.com/globalpayments-samples/online-card-payments)
+- [Online Check Payments](https://github.com/globalpayments-samples/online-check-payments)
+- [Online Recurring Payments](https://github.com/globalpayments-samples/online-recurring-payments)
 - [Authorization with Delayed/Future Capture](https://github.com/globalpayments-samples/online-payments-auth-and-delayed-capture)
 - [Google Pay](https://github.com/globalpayments-samples/google-pay-payments)
 - [Pay by Link](https://github.com/globalpayments-samples/pay-by-link)
@@ -46,10 +49,10 @@ Not yet using our API Platform? You may find some of these sample projects usefu
 
 ### Portico
 
-- [Google Pay](https://github.com/globalpayments-samples/heartland-google-pay-payments)
-- [Online Card Payments with Drop-in UI](https://github.com/globalpayments-samples/heartland-online-card-payments)
-- [Online Check Payments](https://github.com/globalpayments-samples/heartland-online-check-payments)
-- [Online Recurring Payments](https://github.com/globalpayments-samples/heartland-online-recurring-payments)
+- [Google Pay](https://github.com/globalpayments-samples/portico-google-pay-payments)
+- [Online Card Payments with Drop-in UI](https://github.com/globalpayments-samples/portico-online-card-payments)
+- [Online Check Payments](https://github.com/globalpayments-samples/portico-online-check-payments)
+- [Online Recurring Payments](https://github.com/globalpayments-samples/portico-online-recurring-payments)
 - [Save and Reuse Payments](https://github.com/globalpayments-samples/portico-save-and-reuse-payment-methods)
 
 ## Developer Community
