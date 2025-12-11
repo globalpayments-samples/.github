@@ -55,6 +55,9 @@ Not yet using our API Platform? You may find some of these sample projects usefu
 - [Online Recurring Payments](https://github.com/globalpayments-samples/portico-online-recurring-payments)
 - [Save and Reuse Payments](https://github.com/globalpayments-samples/portico-save-and-reuse-payment-methods)
 
+### GP Ecomm (XML)
+- [GP Ecomm Online Recurring Payments](https://github.com/globalpayments-samples/gpecom-online-recurring-payments/)
+
 ## Developer Community
 
 Join our developer community and stay up to date with the latest news from the Global Payments team!
