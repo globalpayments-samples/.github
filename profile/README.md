@@ -57,6 +57,7 @@ Not yet using our API Platform? You may find some of these sample projects usefu
 
 ### GP Ecomm (XML)
 - [GP Ecomm Online Recurring Payments](https://github.com/globalpayments-samples/gpecom-online-recurring-payments/)
+- [GP Ecomm 3DS2 Testing Platform](https://github.com/globalpayments-samples/gpecom-3ds2)
 
 ## Developer Community
 
