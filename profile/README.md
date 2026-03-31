@@ -39,6 +39,7 @@ Integration samples and examples for Global Payments API Platform, organized by 
 - [Save and Reuse Payments](https://github.com/globalpayments-samples/save-and-reuse-payment-methods)
 - [Embedded Payments Fee Splitting](https://github.com/globalpayments-samples/embedded-payments-fee-splitting)
 - [Localized Checkout Experience](https://github.com/globalpayments-samples/localized-checkout-experience)
+- [GP-API 3DS2 Testing Platform](https://github.com/globalpayments-samples/gpapi-3ds2)
 
 ### Tools & Utilities
 
