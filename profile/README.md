@@ -39,6 +39,7 @@ Integration samples and examples for Global Payments API Platform, organized by 
 - [Save and Reuse Payments](https://github.com/globalpayments-samples/save-and-reuse-payment-methods)
 - [Embedded Payments Fee Splitting](https://github.com/globalpayments-samples/embedded-payments-fee-splitting)
 - [Localized Checkout Experience](https://github.com/globalpayments-samples/localized-checkout-experience)
+- [Donation Form: One-time & Recurring Payments](https://github.com/globalpayments-samples/donation-form-one-time-recurring-payments)
 
 ### Tools & Utilities
 
@@ -57,6 +58,7 @@ Not yet using our API Platform? You may find some of these sample projects usefu
 - [Online Recurring Payments](https://github.com/globalpayments-samples/portico-online-recurring-payments)
 - [Save and Reuse Payments](https://github.com/globalpayments-samples/portico-save-and-reuse-payment-methods)
 - [Embedded Payments Fee Splitting](https://github.com/globalpayments-samples/portico-embedded-payments-fee-splitting)
+- [Donation Form: One-time & Recurring Payments](https://github.com/globalpayments-samples/portico-donation-form-one-time-recurring-payments)
 
 ### GP Ecomm (XML)
 - [GP Ecomm Online Recurring Payments](https://github.com/globalpayments-samples/gpecom-online-recurring-payments/)
