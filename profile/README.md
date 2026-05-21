@@ -37,6 +37,7 @@ Integration samples and examples for Global Payments API Platform, organized by 
 - [Pay by Link](https://github.com/globalpayments-samples/pay-by-link)
 - [Payments and Reporting (PHP)](https://github.com/globalpayments-samples/php-payments-and-reporting)
 - [Save and Reuse Payments](https://github.com/globalpayments-samples/save-and-reuse-payment-methods)
+- [Network Tokenization](https://github.com/globalpayments-samples/network-tokenization)
 - [Embedded Payments Fee Splitting](https://github.com/globalpayments-samples/embedded-payments-fee-splitting)
 - [Localized Checkout Experience](https://github.com/globalpayments-samples/localized-checkout-experience)
 - [Donation Form: One-time & Recurring Payments](https://github.com/globalpayments-samples/donation-form-one-time-recurring-payments)
