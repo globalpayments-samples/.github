@@ -42,6 +42,8 @@ Integration samples and examples for Global Payments API Platform, organized by 
 - [Localized Checkout Experience](https://github.com/globalpayments-samples/localized-checkout-experience)
 - [Donation Form: One-time & Recurring Payments](https://github.com/globalpayments-samples/donation-form-one-time-recurring-payments)
 - [Dispute Management](https://github.com/globalpayments-samples/dispute-management)
+- [HPP iFrame - Links API](https://github.com/globalpayments-samples/hpp-links-iframe-redirect)
+
 
 ### Tools & Utilities
 
