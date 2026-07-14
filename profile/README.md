@@ -35,6 +35,7 @@ Integration samples and examples for Global Payments API Platform, organized by 
 - [Authorization with Delayed/Future Capture](https://github.com/globalpayments-samples/online-payments-auth-and-delayed-capture)
 - [Google Pay](https://github.com/globalpayments-samples/google-pay-payments)
 - [Pay by Link](https://github.com/globalpayments-samples/pay-by-link)
+- [Hosted Payment Page (iframe & redirect)](https://github.com/globalpayments-samples/hpp-links-iframe-redirect)
 - [Payments and Reporting (PHP)](https://github.com/globalpayments-samples/php-payments-and-reporting)
 - [Save and Reuse Payments](https://github.com/globalpayments-samples/save-and-reuse-payment-methods)
 - [Network Tokenization](https://github.com/globalpayments-samples/network-tokenization)
