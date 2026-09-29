@@ -42,6 +42,7 @@ Integration samples and examples for Global Payments API Platform, organized by 
 - [Localized Checkout Experience](https://github.com/globalpayments-samples/localized-checkout-experience)
 - [Donation Form: One-time & Recurring Payments](https://github.com/globalpayments-samples/donation-form-one-time-recurring-payments)
 - [Dispute Management](https://github.com/globalpayments-samples/dispute-management)
+- [GP-API 3DS2 Testing Platform](https://github.com/globalpayments-samples/gpapi-3ds2)
 
 ### Tools & Utilities
 
