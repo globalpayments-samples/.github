@@ -6,7 +6,7 @@
   <br />
   <a href="https://www.linkedin.com/showcase/global-payments-for-developers/" target="_blank">LinkedIn</a>
     <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-  <a href="https://developer.globalpay.com/home" target="_blank">Docs</a>
+  <a href="https://developer.globalpayments.com/" target="_blank">Docs</a>
     <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
   <a href="https://github.com/globalpayments" target="_blank">SDKs, Plugins, &amp; more</a>
     <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
@@ -24,6 +24,7 @@ Integration samples and examples for Global Payments API Platform, organized by 
 ## Quick Start Guides
 
 - [Get Started with Global Payments](https://developer.globalpay.com/docs/getting-started/overview)
+- [Starter Template](https://github.com/globalpayments-samples/starter-template)
 
 ## Integration Samples
 
@@ -35,14 +36,18 @@ Integration samples and examples for Global Payments API Platform, organized by 
 - [Authorization with Delayed/Future Capture](https://github.com/globalpayments-samples/online-payments-auth-and-delayed-capture)
 - [Google Pay](https://github.com/globalpayments-samples/google-pay-payments)
 - [Pay by Link](https://github.com/globalpayments-samples/pay-by-link)
+- [Hosted Payment Page (iframe & redirect)](https://github.com/globalpayments-samples/hpp-links-iframe-redirect)
 - [Payments and Reporting (PHP)](https://github.com/globalpayments-samples/php-payments-and-reporting)
 - [Save and Reuse Payments](https://github.com/globalpayments-samples/save-and-reuse-payment-methods)
+- [Wallet Management](https://github.com/globalpayments-samples/wallet-management)
 - [Network Tokenization](https://github.com/globalpayments-samples/network-tokenization)
 - [Embedded Payments Fee Splitting](https://github.com/globalpayments-samples/embedded-payments-fee-splitting)
 - [Localized Checkout Experience](https://github.com/globalpayments-samples/localized-checkout-experience)
 - [Donation Form: One-time & Recurring Payments](https://github.com/globalpayments-samples/donation-form-one-time-recurring-payments)
 - [Dispute Management](https://github.com/globalpayments-samples/dispute-management)
 - [GP-API 3DS2 Testing Platform](https://github.com/globalpayments-samples/gpapi-3ds2)
+- [MOTO Virtual Terminal](https://github.com/globalpayments-samples/virtual-terminal)
+- [Integrated Partner Payments with Hosted Fields](https://github.com/globalpayments-samples/integrated-partner-online-payments-with-hosted-fields-api)
 
 ### Tools & Utilities
 
@@ -60,7 +65,7 @@ Not yet using our API Platform? You may find some of these sample projects usefu
 - [Online Check Payments](https://github.com/globalpayments-samples/portico-online-check-payments)
 - [Online Recurring Payments](https://github.com/globalpayments-samples/portico-online-recurring-payments)
 - [Save and Reuse Payments](https://github.com/globalpayments-samples/portico-save-and-reuse-payment-methods)
-- [Embedded Payments Fee Splitting](https://github.com/globalpayments-samples/portico-embedded-payments-fee-splitting)
+- [Wallet Management](https://github.com/globalpayments-samples/portico-wallet-management)
 - [Donation Form: One-time & Recurring Payments](https://github.com/globalpayments-samples/portico-donation-form-one-time-recurring-payments)
 
 ### GP Ecomm (XML)
@@ -73,7 +78,7 @@ Join our developer community and stay up to date with the latest news from the G
 
 - [Join us on GitHub Discussions](https://github.com/orgs/globalpayments/discussions)
 - [Join us on Discord](https://discord.gg/myER9G9qkc)
-- [Read our Developer Blog](https://developer.globalpay.com/blog/overview)
+- [Read our Developer Blog](https://developer.globalpayments.com/blog)
 - [Follow us on LinkedIn](https://www.linkedin.com/showcase/global-payments-for-developers/)
 - [Subscribe to our YouTube Playlist](https://youtube.com/playlist?list=PLYOhsY1Babga_03fc9FcGIWqagCHEyxY0&si=H4YgJYez6VMxLE68)
 
